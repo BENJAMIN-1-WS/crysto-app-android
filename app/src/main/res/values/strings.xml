@@ -1,0 +1,2828 @@
+<resources>
+    <string name="app_name">TempCrysto</string>
+
+    <string-array name="countries_array">
+        <item>Bitcoin</item>
+        <item>Ethereum</item>
+        <item>XRP</item>
+        <item>Bitcoin Cash</item>
+        <item>EOS</item>
+        <item>Stellar</item>
+        <item>Litecoin</item>
+        <item>Tether USD</item>
+        <item>Cardano</item>
+        <item>Monero</item>
+        <item>TRON</item>
+        <item>IOTA</item>
+        <item>Dash</item>
+        <item>Binance Coin</item>
+        <item>NEO</item>
+        <item>Ethereum Classic</item>
+        <item>NEM</item>
+        <item>Tezos</item>
+        <item>VeChain</item>
+        <item>Dogecoin</item>
+        <item>Zcash</item>
+        <item>Maker</item>
+        <item>Bitcoin Gold</item>
+        <item>OMG Network</item>
+        <item>0x</item>
+        <item>Ontology</item>
+        <item>Lisk</item>
+        <item>Decred</item>
+        <item>QTUM</item>
+        <item>DigiByte</item>
+        <item>ByteCoin</item>
+        <item>Bitshares</item>
+        <item>Aeternity</item>
+        <item>Zilliqa</item>
+        <item>Nano</item>
+        <item>Bitcoin Diamond</item>
+        <item>ICON</item>
+        <item>Siacoin</item>
+        <item>Steem</item>
+        <item>Verge</item>
+        <item>Finamatrix</item>
+        <item>TIMESFARMTOKEN</item>
+        <item>Waves</item>
+        <item>Pundi X old</item>
+        <item>Bytom</item>
+        <item>Basic Attention Token</item>
+        <item>Electroneum</item>
+        <item>Metaverse ETP</item>
+        <item>Golem</item>
+        <item>Augur</item>
+        <item>Holo</item>
+        <item>Stratis</item>
+        <item>Status</item>
+        <item>Populous</item>
+        <item>Eternal Token</item>
+        <item>Ardor</item>
+        <item>Komodo</item>
+        <item>Cryptonex</item>
+        <item>Chainlink</item>
+        <item>Wanchain</item>
+        <item>IOST</item>
+        <item>KuCoin Token</item>
+        <item>Mithril</item>
+        <item>MaidSafe Coin</item>
+        <item>Reddcoin</item>
+        <item>Aion</item>
+        <item>Nebulas</item>
+        <item>MOAC</item>
+        <item>aelf</item>
+        <item>GXShares</item>
+        <item>Huobi Token</item>
+        <item>Loopring</item>
+        <item>HyperCash</item>
+        <item>Dentacoin</item>
+        <item>MonaCoin</item>
+        <item>Bancor</item>
+        <item>Decentraland</item>
+        <item>Aurora</item>
+        <item>Loom Network</item>
+        <item>FunFair</item>
+        <item>RChain</item>
+        <item>ARK</item>
+        <item>QASH</item>
+        <item>Digix DAO</item>
+        <item>Noah Coin</item>
+        <item>Horizen</item>
+        <item>Waltonchain</item>
+        <item>Dropil</item>
+        <item>Crypto-com</item>
+        <item>Elastos</item>
+        <item>TenX</item>
+        <item>Power Ledger</item>
+        <item>PIVX</item>
+        <item>Nxt</item>
+        <item>Single Collateral Dai</item>
+        <item>Theta Token</item>
+        <item>WAX</item>
+        <item>Digitex Futures</item>
+        <item>Nexo</item>
+        <item>Firo</item>
+        <item>PolyBit</item>
+        <item>Gas</item>
+        <item>Bitcoin Private</item>
+        <item>Kyber Network</item>
+        <item>Syscoin</item>
+        <item>QuarkChain</item>
+        <item>Everipedia</item>
+        <item>Genesis Vision</item>
+        <item>Dragonchain</item>
+        <item>Odyssey</item>
+        <item>Nuls</item>
+        <item>Cortex</item>
+        <item>Enigma</item>
+        <item>Revain</item>
+        <item>Kin</item>
+        <item>Nexus</item>
+        <item>MobileGo</item>
+        <item>Civic</item>
+        <item>Emercoin</item>
+        <item>Substratum</item>
+        <item>Storj</item>
+        <item>SALT</item>
+        <item>Groestlcoin </item>
+        <item>Bibox Token</item>
+        <item>Ravencoin</item>
+        <item>Enjin Coin</item>
+        <item>BridgeCoin</item>
+        <item>Skycoin</item>
+        <item>Factoids</item>
+        <item>Iconomi</item>
+        <item>Wagerr</item>
+        <item>Wi Coin</item>
+        <item>Telcoin</item>
+        <item>Dent</item>
+        <item>Gifto</item>
+        <item>Storm</item>
+        <item>Request Network</item>
+        <item>Veritaseum</item>
+        <item>People</item>
+        <item>Bread Token</item>
+        <item>SoMee-Social</item>
+        <item>Vertcoin</item>
+        <item>Centrality</item>
+        <item>Moeda Loyalty Points</item>
+        <item>Pillar</item>
+        <item>Zipper</item>
+        <item>iExec RLC</item>
+        <item>Byteball</item>
+        <item>Tokenomy</item>
+        <item>BHPCash</item>
+        <item>Eidoo</item>
+        <item>Scry-info</item>
+        <item>THEKEY</item>
+        <item>Santiment</item>
+        <item>Crypto20</item>
+        <item>E-Dinar Coin</item>
+        <item>High Performance Blockchain</item>
+        <item>Ethos</item>
+        <item>TomoChain</item>
+        <item>ODEM</item>
+        <item>BOScoin</item>
+        <item>Neblio</item>
+        <item>Raiden Network Token</item>
+        <item>Nucleus Vision</item>
+        <item>Crypterium</item>
+        <item>BF Token</item>
+        <item>Fusion</item>
+        <item>SmartCash</item>
+        <item>Storiqa Token</item>
+        <item>Apollo Currency</item>
+        <item>Mainframe</item>
+        <item>Ambrosus</item>
+        <item>Credo</item>
+        <item>Social Media Market</item>
+        <item>bitCNY</item>
+        <item>PeerCoin</item>
+        <item>Streamr DATAcoin</item>
+        <item>Gnosis</item>
+        <item>Po-et</item>
+        <item>True Chain</item>
+        <item>SingularityNET</item>
+        <item>Aragon</item>
+        <item>Ubiq</item>
+        <item>Metal</item>
+        <item>SACoin</item>
+        <item>Time New Bank</item>
+        <item>Particl</item>
+        <item>Quantstamp</item>
+        <item>SpankChain</item>
+        <item>All Sports</item>
+        <item>BlockNet</item>
+        <item>DATA</item>
+        <item>Global Currency Reserve</item>
+        <item>DigitalNote </item>
+        <item>OneRoot Network</item>
+        <item>CryptoSpots</item>
+        <item>TrollPlay</item>
+        <item>Achain</item>
+        <item>Advanced Browsing Token</item>
+        <item>Cosmo Coin</item>
+        <item>WhiteCoin</item>
+        <item>Cryptaur</item>
+        <item>MediBlocX</item>
+        <item>IoTeX</item>
+        <item>Ruff</item>
+        <item>BLOCKv</item>
+        <item>Einsteinium</item>
+        <item>ProximaX</item>
+        <item>Bitcoin Interest</item>
+        <item>MediShares</item>
+        <item>Cube</item>
+        <item>Bottos</item>
+        <item>SirinLabs</item>
+        <item>SONM</item>
+        <item>NavCoin</item>
+        <item>BitBay</item>
+        <item>BurstCoin</item>
+        <item>Ignis</item>
+        <item>APIS</item>
+        <item>SaluS</item>
+        <item>SafeExchangeCoin</item>
+        <item>POA Network</item>
+        <item>CyberVein</item>
+        <item>Genaro Network</item>
+        <item>Trade Token</item>
+        <item>ZClassic</item>
+        <item>Aave old</item>
+        <item>eosDAC</item>
+        <item>Ren</item>
+        <item>DEW</item>
+        <item>UTRUST</item>
+        <item>Asch</item>
+        <item>Steem Dollars</item>
+        <item>Namecoin</item>
+        <item>Litecoin Cash</item>
+        <item>Edgeless</item>
+        <item>NagaCoin</item>
+        <item>Rock</item>
+        <item>Content Neutrality Network</item>
+        <item>IoT Chain</item>
+        <item>LoyalCoin</item>
+        <item>Modum</item>
+        <item>Nexty</item>
+        <item>STASIS EURO</item>
+        <item>district0x</item>
+        <item>Insolar</item>
+        <item>BABB</item>
+        <item>PrimeCoin</item>
+        <item>TokenClub</item>
+        <item>PCHAIN</item>
+        <item>CAR</item>
+        <item>VIBE</item>
+        <item>SophiaTX</item>
+        <item>SelfKey</item>
+        <item>Ripio Credit Network</item>
+        <item>Rotharium</item>
+        <item>SingularDTV</item>
+        <item>Electra</item>
+        <item>ViaCoin</item>
+        <item>DAPS Coin</item>
+        <item>XtraBYtes</item>
+        <item>Bitcore</item>
+        <item>FuzeX</item>
+        <item>Lympo</item>
+        <item>Swarm</item>
+        <item>TaTaTu</item>
+        <item>WePower</item>
+        <item>VITE</item>
+        <item>Ionomy</item>
+        <item>AirSwap</item>
+        <item>Legolas Exchange</item>
+        <item>BitKan</item>
+        <item>Wings</item>
+        <item>TrueUSD</item>
+        <item>Dynamic Trading Rights</item>
+        <item>Spectre-ai Dividend Token</item>
+        <item>Unobtanium</item>
+        <item>Cred</item>
+        <item>CloakCoin</item>
+        <item>PacCoin</item>
+        <item>QLC Chain</item>
+        <item>AdEx</item>
+        <item>Primas</item>
+        <item>LEOcoin</item>
+        <item>Simple Token</item>
+        <item>DMarket</item>
+        <item>IHT Real Estate Protocol</item>
+        <item>Refereum</item>
+        <item>Aeron</item>
+        <item>Gamecredits</item>
+        <item>Bittwatt</item>
+        <item>Tierion</item>
+        <item>bitUSD</item>
+        <item>CasinoCoin</item>
+        <item>Hydro</item>
+        <item>Quant</item>
+        <item>Quantum Resistant Ledger</item>
+        <item>Lykke</item>
+        <item>Linda</item>
+        <item>Havven</item>
+        <item>ALQO</item>
+        <item>Seele</item>
+        <item>Callisto Network</item>
+        <item>GreenCoin</item>
+        <item>Red Pulse Phoenix</item>
+        <item>HorusPay</item>
+        <item>Neumark</item>
+        <item>DeepBrain Chain</item>
+        <item>Loki</item>
+        <item>Boolberry</item>
+        <item>MinexCoin</item>
+        <item>WaBi</item>
+        <item>REPO</item>
+        <item>NovaCoin</item>
+        <item>Covesting</item>
+        <item>Kick Token</item>
+        <item>PayPie</item>
+        <item>Prizm</item>
+        <item>AppCoins</item>
+        <item>Gulden</item>
+        <item>Zeepin</item>
+        <item>Blox</item>
+        <item>Bezant</item>
+        <item>SkullBuzz</item>
+        <item>Moneytoken</item>
+        <item>SpinCoin</item>
+        <item>Mercury</item>
+        <item>Delphy</item>
+        <item>Cobinhood</item>
+        <item>New Kind of Network</item>
+        <item>Mobius</item>
+        <item>Everus</item>
+        <item>Mothership</item>
+        <item>Internet Node Token</item>
+        <item>OriginTrail</item>
+        <item>BitGreen</item>
+        <item>Premium</item>
+        <item>MVL</item>
+        <item>Bulwark</item>
+        <item>GINcoin</item>
+        <item>Universa</item>
+        <item>BitTube</item>
+        <item>ATN</item>
+        <item>Hive Project</item>
+        <item>Lunyr</item>
+        <item>Medical Token Currency</item>
+        <item>Smartlands</item>
+        <item>YOYOW</item>
+        <item>Aurora DAO</item>
+        <item>Pascal Coin</item>
+        <item>Etherparty</item>
+        <item>AdToken</item>
+        <item>Apex</item>
+        <item>Cofound-it</item>
+        <item>Ecoreal Estate</item>
+        <item>Ternio</item>
+        <item>SwftCoin</item>
+        <item>FeatherCoin</item>
+        <item>DAEX</item>
+        <item>MktCoin</item>
+        <item>B2BX</item>
+        <item>Everex</item>
+        <item>LBRY Credits</item>
+        <item>Monolith</item>
+        <item>BlockMason Credit Protocol</item>
+        <item>Blue Whale Token</item>
+        <item>Dock</item>
+        <item>Qubitica</item>
+        <item>ContentBox</item>
+        <item>Fortuna</item>
+        <item>Blocktix</item>
+        <item>Phore</item>
+        <item>Ink</item>
+        <item>Decent</item>
+        <item>AEON</item>
+        <item>Sentinel Protocol</item>
+        <item>Graft</item>
+        <item>Rialto-AI</item>
+        <item>NANJCOIN</item>
+        <item>Soarcoin</item>
+        <item>COSS</item>
+        <item>0chain</item>
+        <item>Bismuth</item>
+        <item>CounterParty</item>
+        <item>Eden</item>
+        <item>Polybius</item>
+        <item>Shift</item>
+        <item>Crown Coin</item>
+        <item>Monetha</item>
+        <item>Viberate</item>
+        <item>Scorum Coins</item>
+        <item>Bean Cash</item>
+        <item>OpenANX</item>
+        <item>Zebi</item>
+        <item>HTMLCOIN</item>
+        <item>DonationCoin</item>
+        <item>ZrCoin</item>
+        <item>LATOKEN</item>
+        <item>Tao</item>
+        <item>Restart Energy MWAT</item>
+        <item>Decent-bet</item>
+        <item>DADI</item>
+        <item>Rise</item>
+        <item>MASTERNET</item>
+        <item>E-CurrencyCoin</item>
+        <item>Mossland</item>
+        <item>DIMCOIN</item>
+        <item>carVertical</item>
+        <item>FirstBlood</item>
+        <item>Olympus Labs</item>
+        <item>Eximchain</item>
+        <item>DAO-casino</item>
+        <item>Prospectors</item>
+        <item>SwissBorg</item>
+        <item>Napoleon X</item>
+        <item>HalalChain</item>
+        <item>Ifoods Chain</item>
+        <item>Nerves</item>
+        <item>LinkEye</item>
+        <item>YEE</item>
+        <item>Numeraire</item>
+        <item>Cashaa</item>
+        <item>Lamden Tau</item>
+        <item>Loco</item>
+        <item>BANKEX</item>
+        <item>Melon</item>
+        <item>DATx</item>
+        <item>The Hempcoin</item>
+        <item>Oyster</item>
+        <item>Flash</item>
+        <item>Primalbase</item>
+        <item>Diamond</item>
+        <item>QunQun</item>
+        <item>Stakenet</item>
+        <item>Pepe Cash</item>
+        <item>Blackmoon</item>
+        <item>Pura</item>
+        <item>Blockport</item>
+        <item>MonetaryUnit</item>
+        <item>SureRemit</item>
+        <item>U-CASH</item>
+        <item>Airbloc</item>
+        <item>CLAMS</item>
+        <item>Humaniq</item>
+        <item>Propy</item>
+        <item>DeepOnion</item>
+        <item>EcoBit</item>
+        <item>Environ</item>
+        <item>BlackCoin</item>
+        <item>Bloom Token</item>
+        <item>Constellation</item>
+        <item>Ethersocial</item>
+        <item>PolySwarm</item>
+        <item>XinFin Network</item>
+        <item>FansTime</item>
+        <item>XEL</item>
+        <item>GridPay</item>
+        <item>Haven Protocol</item>
+        <item>Remicoin</item>
+        <item>TE-FOOD</item>
+        <item>Bitcoin Atom</item>
+        <item>MyriadCoin</item>
+        <item>TRAXIA</item>
+        <item>FNKOS</item>
+        <item>Unikoin Gold</item>
+        <item>Spectre</item>
+        <item>PotCoin</item>
+        <item>Zeusshield</item>
+        <item>DimeCoin</item>
+        <item>Dero</item>
+        <item>Interplanetary Broadcast Coin</item>
+        <item>Skrumble Network</item>
+        <item>DeviantCoin</item>
+        <item>HappyCoin</item>
+        <item>DAOstack</item>
+        <item>Synereo</item>
+        <item>Xaurum</item>
+        <item>BANCA</item>
+        <item>Cappasity</item>
+        <item>OracleChain</item>
+        <item>CryptoCarbon</item>
+        <item>Radium</item>
+        <item>AI Doctor</item>
+        <item>GridCoin</item>
+        <item>Vipstar Coin</item>
+        <item>Stox</item>
+        <item>DACSEE</item>
+        <item>MintCoin</item>
+        <item>PandaCoin</item>
+        <item>UpToken</item>
+        <item>Atonomi</item>
+        <item>Asia Coin</item>
+        <item>Anoncoin</item>
+        <item>U Network</item>
+        <item>REMME</item>
+        <item>aXpire</item>
+        <item>ugChain</item>
+        <item>Stellite</item>
+        <item>Change</item>
+        <item>Decision Token</item>
+        <item>TrackNetToken</item>
+        <item>Musicoin</item>
+        <item>Karma</item>
+        <item>STK</item>
+        <item>Token as a Service</item>
+        <item>EkoCoin</item>
+        <item>Ulord</item>
+        <item>BOXX Token Blockparty</item>
+        <item>BitLux</item>
+        <item>Trigger</item>
+        <item>XPA</item>
+        <item>SunContract</item>
+        <item>Adshares</item>
+        <item>Eroscoin</item>
+        <item>Switcheo</item>
+        <item>Apx</item>
+        <item>DomRaider</item>
+        <item>Hacken</item>
+        <item>LUXCoin</item>
+        <item>Omnitude</item>
+        <item>Peerplays</item>
+        <item>Experience Points</item>
+        <item>Welltrado</item>
+        <item>Banyan Network</item>
+        <item>Maecenas</item>
+        <item>Egretia</item>
+        <item>BitDice</item>
+        <item>Smartshare</item>
+        <item>RubyCoin</item>
+        <item>LogisCoin</item>
+        <item>FlorinCoin</item>
+        <item>IOCoin</item>
+        <item>Global Social Chain</item>
+        <item>AVINOC</item>
+        <item>Hubii Network</item>
+        <item>Proxeus</item>
+        <item>Datawallet</item>
+        <item>Matchpool</item>
+        <item>ToaCoin</item>
+        <item>Gems </item>
+        <item>BrahmaOS</item>
+        <item>DxChain Token</item>
+        <item>Polis</item>
+        <item>Ormeus Coin</item>
+        <item>HTML Coin</item>
+        <item>MARK-SPACE</item>
+        <item>SolarCoin</item>
+        <item>Trinity Network Credit</item>
+        <item>Solaris</item>
+        <item>Sentinel</item>
+        <item>NoLimitCoin2</item>
+        <item>ProChain</item>
+        <item>Vexanium</item>
+        <item>Gambit coin</item>
+        <item>Starta</item>
+        <item>StealthCoin</item>
+        <item>Incent</item>
+        <item>Infinite Coin</item>
+        <item>DubaiCoin</item>
+        <item>VeriCoin</item>
+        <item>Etheroll</item>
+        <item>Bodhi</item>
+        <item>Experty</item>
+        <item>Circuits of Value</item>
+        <item>RightMesh</item>
+        <item>EDUCare</item>
+        <item>BitSend</item>
+        <item>StrongHands</item>
+        <item>CoinPoker</item>
+        <item>CanonChain</item>
+        <item>Waves Community Token</item>
+        <item>SHIELD</item>
+        <item>Dotcoin</item>
+        <item>Databits</item>
+        <item>Morpheus-Network</item>
+        <item>Ink Protocol</item>
+        <item>Clipper Coin</item>
+        <item>BitZ Token</item>
+        <item>SRCOIN</item>
+        <item>Nasdacoin</item>
+        <item>Neurotoken</item>
+        <item>ThoreCoin</item>
+        <item>Espers</item>
+        <item>RealTract</item>
+        <item>EncrypGen</item>
+        <item>SelfSell</item>
+        <item>Energo</item>
+        <item>bitqy</item>
+        <item>Cubits</item>
+        <item>OneLedger</item>
+        <item>MidasProtocol</item>
+        <item>EXRNchain</item>
+        <item>Aphelion</item>
+        <item>Time</item>
+        <item>SIC</item>
+        <item>Lightpaycoin</item>
+        <item>REAL</item>
+        <item>True Flip Lottery</item>
+        <item>New Power Coin</item>
+        <item>Dnotes</item>
+        <item>Midnight</item>
+        <item>Sequence</item>
+        <item>Aircoin</item>
+        <item>YoCoin</item>
+        <item>CargoX</item>
+        <item>Crypviser</item>
+        <item>Rate3</item>
+        <item>Nebula AI</item>
+        <item>POPCHAIN</item>
+        <item>Omni</item>
+        <item>Rivetz</item>
+        <item>Autonio</item>
+        <item>Friendz</item>
+        <item>Trustcoin</item>
+        <item>Digix Gold Token</item>
+        <item>SibCoin</item>
+        <item>Forkcoin</item>
+        <item>Quantum</item>
+        <item>iXledger</item>
+        <item>Pirl</item>
+        <item>InvestFeed</item>
+        <item>Nimiq </item>
+        <item>Paragon</item>
+        <item>NewYorkCoin</item>
+        <item>SounDAC</item>
+        <item>Debitum Token</item>
+        <item>IndiCoin</item>
+        <item>Olive</item>
+        <item>PLC</item>
+        <item>Patientory</item>
+        <item>IndaHash</item>
+        <item>OKCash</item>
+        <item>Silent Notary</item>
+        <item>Zilbercoin</item>
+        <item>Expanse</item>
+        <item>GoByte</item>
+        <item>ArtByte</item>
+        <item>Dynamic</item>
+        <item>Merculet</item>
+        <item>1World</item>
+        <item>FedoraCoin</item>
+        <item>Leverj</item>
+        <item>Mysterium</item>
+        <item>AidCoin</item>
+        <item>Flixxo</item>
+        <item>Swarm City Token</item>
+        <item>PinkCoin</item>
+        <item>AurumCoin</item>
+        <item>Curecoin</item>
+        <item>Sharder</item>
+        <item>Sharpe Capital</item>
+        <item>Mozo Token</item>
+        <item>Golos</item>
+        <item>Vezt</item>
+        <item>Hashgard</item>
+        <item>CoinFi</item>
+        <item>XMax</item>
+        <item>BitRent</item>
+        <item>Uquid Coin</item>
+        <item>HeroNode</item>
+        <item>ShipChain</item>
+        <item>Nukecoinz</item>
+        <item>EnergyCoin</item>
+        <item>Adbank</item>
+        <item>GeoCoin</item>
+        <item>Acute Angle Cloud</item>
+        <item>ALIS</item>
+        <item>4NEW</item>
+        <item>Colu Local Network</item>
+        <item>Sprouts</item>
+        <item>Zap</item>
+        <item>Spectre-ai Utility Token</item>
+        <item>Cpollo</item>
+        <item>Effect-AI</item>
+        <item>Alphacat</item>
+        <item>Gold Bits Coin</item>
+        <item>CommerceBlock Token</item>
+        <item>VouchForMe</item>
+        <item>BlockLancer</item>
+        <item>Bezop</item>
+        <item>Folding Coin</item>
+        <item>LomoCoin</item>
+        <item>QuarkCoin</item>
+        <item>Cruisebit</item>
+        <item>C2C System</item>
+        <item>Dether</item>
+        <item>Internxt</item>
+        <item>BlueCoin</item>
+        <item>Unibright</item>
+        <item>Aurora Coin</item>
+        <item>NPER</item>
+        <item>Tokes</item>
+        <item>GATCOIN</item>
+        <item>Masari</item>
+        <item>Project Coin</item>
+        <item>Pareto Network</item>
+        <item>MyBit</item>
+        <item>PolicyPal Network</item>
+        <item>BitDegree</item>
+        <item>IDEX Membership</item>
+        <item>Sense Token</item>
+        <item>Tigereum</item>
+        <item>Rentberry</item>
+        <item>Avalon</item>
+        <item>2GiveCoin</item>
+        <item>NeosCoin</item>
+        <item>Kora Network Token</item>
+        <item>FarmaTrust</item>
+        <item>JET8</item>
+        <item>1337</item>
+        <item>Bounty0x</item>
+        <item>Social Send</item>
+        <item>Sentinel Chain</item>
+        <item>FintruX Network</item>
+        <item>Faceter</item>
+        <item>Morpheus Labs</item>
+        <item>Lampix</item>
+        <item>Peculium</item>
+        <item>AiLink Token</item>
+        <item>BitcoinZ</item>
+        <item>AMLT</item>
+        <item>Arbidex</item>
+        <item>MaxCoin</item>
+        <item>Ergo</item>
+        <item>GoldCoin</item>
+        <item>Insights Network</item>
+        <item>Sphere Coin</item>
+        <item>CapriCoin</item>
+        <item>Energi</item>
+        <item>Helbiz</item>
+        <item>LIFE</item>
+        <item>ClearPoll</item>
+        <item>AdHive</item>
+        <item>HEXX</item>
+        <item>Matryx</item>
+        <item>CYCLEAN</item>
+        <item>Seal Network</item>
+        <item>Sp8de</item>
+        <item>COPYTRACK</item>
+        <item>Bee Network Coin</item>
+        <item>Devery</item>
+        <item>VULCANO</item>
+        <item>Breakout Stake</item>
+        <item>ZeitCoin</item>
+        <item>Rebellious</item>
+        <item>Sociall</item>
+        <item>Snovian-Space</item>
+        <item>Trittium</item>
+        <item>HiCoin</item>
+        <item>CryptoPay</item>
+        <item>AICHAIN</item>
+        <item>ColossusCoinXT</item>
+        <item>BitCrystals</item>
+        <item>TerraCoin</item>
+        <item>NeuroChain</item>
+        <item>Pluton</item>
+        <item>Content and AD Network</item>
+        <item>MetaMorph</item>
+        <item>Playkey</item>
+        <item>Zoin</item>
+        <item>Internet of People</item>
+        <item>LikeCoin</item>
+        <item>DPRating</item>
+        <item>Bullion</item>
+        <item>Oyster Shell</item>
+        <item>MIB Coin</item>
+        <item>Astronaut</item>
+        <item>ZEST</item>
+        <item>EncryptoTel</item>
+        <item>Qwark</item>
+        <item>Travelflex</item>
+        <item>HEROcoin</item>
+        <item>Digital Asset Guarantee Token</item>
+        <item>Open Trading Network</item>
+        <item>Blue Protocol</item>
+        <item>B3Coin</item>
+        <item>Transfer</item>
+        <item>Nexium</item>
+        <item>BetterBetting</item>
+        <item>Zephyr</item>
+        <item>Block Array</item>
+        <item>Hedge</item>
+        <item>Smoke</item>
+        <item>Heat Ledger</item>
+        <item>ATMChain</item>
+        <item>Exclusive Coin</item>
+        <item>Indorse</item>
+        <item>LatiumX</item>
+        <item>DraftCoin</item>
+        <item>Freyrchain</item>
+        <item>GENE</item>
+        <item>Gladius</item>
+        <item>BitClave</item>
+        <item>Atmos</item>
+        <item>Soniq</item>
+        <item>Publica</item>
+        <item>Zilla</item>
+        <item>EuropeCoin</item>
+        <item>Elixir</item>
+        <item>Monkey Project</item>
+        <item>UFO Coin</item>
+        <item>0xBitcoin</item>
+        <item>Wish Finance</item>
+        <item>MyTrackNet</item>
+        <item>Redcoin</item>
+        <item>Daneel</item>
+        <item>Obits Coin</item>
+        <item>Vice Industry Token</item>
+        <item>NuBits</item>
+        <item>Universal Currency</item>
+        <item>BlockPool</item>
+        <item>IP Exchange</item>
+        <item>Spectiv</item>
+        <item>Bethereum</item>
+        <item>Local World Forwarders</item>
+        <item>BuzzCoin</item>
+        <item>Hyperstake</item>
+        <item>DopeCoin</item>
+        <item>Divi</item>
+        <item>Sumokoin</item>
+        <item>Denarius</item>
+        <item>CyberFM</item>
+        <item>CannabisCoin</item>
+        <item>OWNDATA</item>
+        <item>MedicCoin</item>
+        <item>RealChain</item>
+        <item>Kore</item>
+        <item>Sether</item>
+        <item>TeslaCoin</item>
+        <item>Russiacoin</item>
+        <item>Verium</item>
+        <item>WeAreSatoshi</item>
+        <item>nUSD</item>
+        <item>Paypex</item>
+        <item>HOQU</item>
+        <item>E-Gulden</item>
+        <item>Carboncoin</item>
+        <item>LALA World</item>
+        <item>Zippie</item>
+        <item>Motocoin</item>
+        <item>Lethean</item>
+        <item>Eventchain</item>
+        <item>PepeCoin</item>
+        <item>CyberMusic</item>
+        <item>PHI Token</item>
+        <item>Privatix</item>
+        <item>Chainium</item>
+        <item>Stipend</item>
+        <item>Syndicate</item>
+        <item>SportyCo</item>
+        <item>Upfiring</item>
+        <item>Worldcore</item>
+        <item>42 Coin</item>
+        <item>Pepe</item>
+        <item>Monster Byte Inc</item>
+        <item>Tokenbox</item>
+        <item>CopperLark</item>
+        <item>ATBCoin</item>
+        <item>eBoost</item>
+        <item>LiteDoge</item>
+        <item>B3 Coin</item>
+        <item>MinersReward</item>
+        <item>Traceability Chain</item>
+        <item>President Trump</item>
+        <item>FidentiaX</item>
+        <item>Envion</item>
+        <item>Darcrus</item>
+        <item>LociCoin</item>
+        <item>BitCurrency</item>
+        <item>EthBits</item>
+        <item>BreakoutCoin</item>
+        <item>HollyWoodCoin</item>
+        <item>PayFair</item>
+        <item>Hackspace Capital</item>
+        <item>Maverick Chain</item>
+        <item>Speed Mining Service</item>
+        <item>Bela</item>
+        <item>Verify</item>
+        <item>ShareX</item>
+        <item>HunterCoin</item>
+        <item>Giga Watt</item>
+        <item>PesetaCoin</item>
+        <item>Voise</item>
+        <item>Talao</item>
+        <item>Condominium</item>
+        <item>PetroDollar</item>
+        <item>NobleCoin</item>
+        <item>NaviAddress</item>
+        <item>Ties Network</item>
+        <item>TrakInvest</item>
+        <item>Skincoin</item>
+        <item>eBitcoin</item>
+        <item>Engagement Token</item>
+        <item>ChainCoin</item>
+        <item>Bonpay</item>
+        <item>AudioCoin</item>
+        <item>SexCoin</item>
+        <item>Game-com</item>
+        <item>Auctus</item>
+        <item>Karbo</item>
+        <item>Spreadcoin</item>
+        <item>Gold Poker</item>
+        <item>Target Coin</item>
+        <item>FantomCoin </item>
+        <item>Proton Token</item>
+        <item>Thrive Token</item>
+        <item>SmartFox</item>
+        <item>Centra</item>
+        <item>Knoxstertoken</item>
+        <item>BitSwift</item>
+        <item>Ellaism</item>
+        <item>ShortyCoin</item>
+        <item>BiblePay</item>
+        <item>Birake</item>
+        <item>Pancake Bunny</item>
+        <item>Auxilium</item>
+        <item>SnowGem</item>
+        <item>0xcert</item>
+        <item>BitCoen</item>
+        <item>Ethorse</item>
+        <item>EverGreenCoin</item>
+        <item>The ChampCoin</item>
+        <item>KekCoin</item>
+        <item>CFun</item>
+        <item>Bitcoin Token</item>
+        <item>TokenStars</item>
+        <item>FantasyGold</item>
+        <item>Ahoolee</item>
+        <item>Paymon</item>
+        <item>CryptoPing</item>
+        <item>gCn Coin</item>
+        <item>Biocoin</item>
+        <item>BoutsPro</item>
+        <item>Zero</item>
+        <item>MNPCoin</item>
+        <item>Neutron</item>
+        <item>Bigbom</item>
+        <item>NeverDie</item>
+        <item>Guaranteed Ethurance Token Extra</item>
+        <item>Goodomy</item>
+        <item>RefToken</item>
+        <item>Narrative</item>
+        <item>FlypMe</item>
+        <item>PiplCoin</item>
+        <item>Aigang</item>
+        <item>Coin Magi</item>
+        <item>Nullex</item>
+        <item>Adelphoi</item>
+        <item>Argentum</item>
+        <item>BitcoinPlus</item>
+        <item>Cryptonite</item>
+        <item>VeriME</item>
+        <item>IGToken</item>
+        <item>Smart Investment Fund Token</item>
+        <item>Condensate</item>
+        <item>King93</item>
+        <item>Invictus</item>
+        <item>FORCE</item>
+        <item>FlutterCoin</item>
+        <item>Rupee</item>
+        <item>CraveCoin</item>
+        <item>TrustPlus</item>
+        <item>IXcoin</item>
+        <item>TrezarCoin</item>
+        <item>smARTOFGIVING</item>
+        <item>808</item>
+        <item>Photon</item>
+        <item>BITFID</item>
+        <item>Pylon Network</item>
+        <item>EquiTrader</item>
+        <item>BunnyCoin</item>
+        <item>Oxycoin</item>
+        <item>Benz</item>
+        <item>LDC</item>
+        <item>Simdaq Token</item>
+        <item>Orbitcoin</item>
+        <item>SyncFab</item>
+        <item>TurtleNetwork</item>
+        <item>ArtexCoin</item>
+        <item>Iungo</item>
+        <item>Hush</item>
+        <item>Jury-Online Token</item>
+        <item>Shard</item>
+        <item>WorldCoin</item>
+        <item>FundRequest</item>
+        <item>Canada eCoin</item>
+        <item>PopularCoin</item>
+        <item>Utrum</item>
+        <item>White Standard</item>
+        <item>ScryptToken</item>
+        <item>FUTURAX</item>
+        <item>Altcoin</item>
+        <item>Adzcoin</item>
+        <item>Chronologic</item>
+        <item>Bitcloud</item>
+        <item>FujiCoin</item>
+        <item>vSlice</item>
+        <item>Vsync</item>
+        <item>Universe</item>
+        <item>Bitcloud_2</item>
+        <item>Monoeci</item>
+        <item>StarterCoin</item>
+        <item>Etheriya</item>
+        <item>XGOX</item>
+        <item>Galactrum</item>
+        <item>I0coin</item>
+        <item>Rupaya</item>
+        <item>Coinlancer</item>
+        <item>Oceanlab</item>
+        <item>Sugar Exchange</item>
+        <item>Bridge Protocol</item>
+        <item>Xenon</item>
+        <item>Innova</item>
+        <item>Trollcoin</item>
+        <item>MicroMoney</item>
+        <item>Tokia</item>
+        <item>ZetaCoin</item>
+        <item>CreativeChain</item>
+        <item>Pure</item>
+        <item>CampusCoin</item>
+        <item>Live Stars</item>
+        <item>ShowHand</item>
+        <item>RusGas</item>
+        <item>AdCoin</item>
+        <item>XBP</item>
+        <item>MartexCoin</item>
+        <item>Signals Network</item>
+        <item>Wood Coin</item>
+        <item>Magnetcoin</item>
+        <item>UltraCoin</item>
+        <item>WandX</item>
+        <item>CrowdCoin</item>
+        <item>Growers International</item>
+        <item>Mercury Protocol</item>
+        <item>Straks</item>
+        <item>OP Coin</item>
+        <item>TagCoin</item>
+        <item>NuShares</item>
+        <item>Kolion</item>
+        <item>SmileyCoin</item>
+        <item>Viuly</item>
+        <item>Hellenic Coin</item>
+        <item>PeepCoin</item>
+        <item>BitZeny</item>
+        <item>Aditus</item>
+        <item>Equal</item>
+        <item>KanadeCoin</item>
+        <item>Abulaba</item>
+        <item>BitWhite</item>
+        <item>Dinastycoin</item>
+        <item>APR Coin</item>
+        <item>Mao Zedong</item>
+        <item>Amon</item>
+        <item>FireRoosterCoin</item>
+        <item>Ultimate Secure Cash</item>
+        <item>DigitalPrice</item>
+        <item>Advanced Internet Blocks</item>
+        <item>Ignition</item>
+        <item>Cryptodex</item>
+        <item>TattooCoin</item>
+        <item>PKG Token</item>
+        <item>EtherGem</item>
+        <item>Redfishcoin</item>
+        <item>EZToken</item>
+        <item>More Coin</item>
+        <item>DCORP Utility</item>
+        <item>KoboCoin</item>
+        <item>TruckCoin</item>
+        <item>Liquid</item>
+        <item>Fabric Token</item>
+        <item>SagaCoin</item>
+        <item>DigiCoin</item>
+        <item>bitSilver</item>
+        <item>MagicCoin</item>
+        <item>eMark</item>
+        <item>UnbreakableCoin</item>
+        <item>BitJob</item>
+        <item>No BS Crypto</item>
+        <item>Skeincoin</item>
+        <item>VikkyToken</item>
+        <item>HOdlcoin</item>
+        <item>bitBTC</item>
+        <item>InflationCoin</item>
+        <item>ArcticCoin</item>
+        <item>BriaCoin</item>
+        <item>Dashcoin</item>
+        <item>LanaCoin</item>
+        <item>PlatinumBAR</item>
+        <item>Decentralized Machine Learning</item>
+        <item>Evimeria</item>
+        <item>DigiPulse</item>
+        <item>OpalCoin</item>
+        <item>InsaneCoin</item>
+        <item>Zennies</item>
+        <item>FirstCoin</item>
+        <item>QubitCoin</item>
+        <item>ByteCent</item>
+        <item>Authorship</item>
+        <item>Piggy Coin</item>
+        <item>BitBar</item>
+        <item>MoinCoin</item>
+        <item>Accelerator Network</item>
+        <item>Tidex</item>
+        <item>Manna</item>
+        <item>Bettex Coin</item>
+        <item>VIVO</item>
+        <item>TrumpCoin</item>
+        <item>iEthereum</item>
+        <item>IncaKoin</item>
+        <item>EtherSportz</item>
+        <item>FairCoin</item>
+        <item>Unitus</item>
+        <item>Elementrem</item>
+        <item>Jetcoin</item>
+        <item>TeamUP</item>
+        <item>Synergy</item>
+        <item>bitGold</item>
+        <item>RenosCoin</item>
+        <item>CashCoin</item>
+        <item>ZINC</item>
+        <item>Golfcoin</item>
+        <item>Musiconomi</item>
+        <item>Insane Coin</item>
+        <item>Kurrent</item>
+        <item>ProCurrency</item>
+        <item>Linx</item>
+        <item>ShadowCash</item>
+        <item>BlakeCoin</item>
+        <item>Masternodecoin</item>
+        <item>Intelligent Trading</item>
+        <item>Elcoin</item>
+        <item>StartCoin</item>
+        <item>STARS</item>
+        <item>Bit20</item>
+        <item>ZCore</item>
+        <item>iTicoin</item>
+        <item>Leafcoin</item>
+        <item>BitstarCoin</item>
+        <item>Netko</item>
+        <item>Origami</item>
+        <item>FastCoin</item>
+        <item>VOLTROON</item>
+        <item>Triangles Coin</item>
+        <item>Jesus Coin</item>
+        <item>Katalyse</item>
+        <item>Biotron</item>
+        <item>Minereum</item>
+        <item>Bluzelle</item>
+        <item>CatoCoin</item>
+        <item>Bitradio</item>
+        <item>Ethereum Movie Venture</item>
+        <item>Empyrean</item>
+        <item>Kubera Coin</item>
+        <item>Blocknode</item>
+        <item>Ethereum Cash</item>
+        <item>SGPay</item>
+        <item>TekCoin</item>
+        <item>BitStation</item>
+        <item>Bitcoin Scrypt</item>
+        <item>Billionaire Token</item>
+        <item>BelugaPay</item>
+        <item>UCOM</item>
+        <item>PayCoin</item>
+        <item>JouleCoin</item>
+        <item>EagleX</item>
+        <item>IrishCoin</item>
+        <item>PutinCoin</item>
+        <item>CryptoFlow</item>
+        <item>nDEX</item>
+        <item>OCTCoin</item>
+        <item>MegaCoin</item>
+        <item>BBSCoin</item>
+        <item>Cream</item>
+        <item>RouletteToken</item>
+        <item>Actinium</item>
+        <item>Dix Asset</item>
+        <item>CoffeeCoin</item>
+        <item>Crowdholding</item>
+        <item>Onix</item>
+        <item>BitcoinFast</item>
+        <item>TittieCoin</item>
+        <item>Gapcoin</item>
+        <item>Halcyon</item>
+        <item>Cazcoin</item>
+        <item>Numus</item>
+        <item>Bata</item>
+        <item>Ratecoin</item>
+        <item>PRiVCY</item>
+        <item>SafeInsure</item>
+        <item>Embers</item>
+        <item>Senderon</item>
+        <item>BritCoin</item>
+        <item>Tourist Token</item>
+        <item>iBTC</item>
+        <item>Bank Coin</item>
+        <item>Bitdeal</item>
+        <item>MachineCoin</item>
+        <item>OPCoinX</item>
+        <item>NyanCoin</item>
+        <item>Sharechain</item>
+        <item>SuperCoin</item>
+        <item>CarTaxi</item>
+        <item>Phonecoin</item>
+        <item>Obsidian</item>
+        <item>Transcodium</item>
+        <item>Rubies</item>
+        <item>Rimbit</item>
+        <item>FLiK</item>
+        <item>bitEUR</item>
+        <item>ArbitrageCT</item>
+        <item>Version</item>
+        <item>ChessCoin</item>
+        <item>WhaleCoin</item>
+        <item>Hellenic Node</item>
+        <item>AriCoin</item>
+        <item>Octocoin</item>
+        <item>VoteCoin</item>
+        <item>Unify</item>
+        <item>Jin Coin</item>
+        <item>Bitsum</item>
+        <item>Emerald Crypto</item>
+        <item>The Cypherfunks</item>
+        <item>Octanox</item>
+        <item>Veros</item>
+        <item>Ethereum Gold</item>
+        <item>Pascal Lite</item>
+        <item>Litecoin Plus</item>
+        <item>Regalcoin</item>
+        <item>Shekel</item>
+        <item>TitCoin</item>
+        <item>SmartCoin</item>
+        <item>Wavesnode-net</item>
+        <item>STRESScoin</item>
+        <item>Pakcoin</item>
+        <item>Crystal Clear Token </item>
+        <item>Fuel2Coin</item>
+        <item>Datarius</item>
+        <item>MarsCoin </item>
+        <item>Klingon Empire Darsek</item>
+        <item>BolivarCoin</item>
+        <item>ZoZoCoin</item>
+        <item>DeltaChain</item>
+        <item>Ourcoin</item>
+        <item>AceD</item>
+        <item>BrokerNekoNetwork</item>
+        <item>Wild Crypto</item>
+        <item>ConnectJob Token</item>
+        <item>GreenMed</item>
+        <item>Lobstex</item>
+        <item>Printex</item>
+        <item>CryptoJacks</item>
+        <item>Arion</item>
+        <item>PureVidz</item>
+        <item>XOVBank</item>
+        <item>WavesGO</item>
+        <item>KushCoin</item>
+        <item>EthBet</item>
+        <item>Bitcoin Red</item>
+        <item>TOKYO</item>
+        <item>CryptoInsight</item>
+        <item>BigUp</item>
+        <item>DaxxCoin</item>
+        <item>Coin-2</item>
+        <item>LeviarCoin</item>
+        <item>Digital Money---</item>
+        <item>Litebar </item>
+        <item>Earth Token</item>
+        <item>Tracto</item>
+        <item>iCoin</item>
+        <item>Qvolta</item>
+        <item>Shadow Token</item>
+        <item>SwagBucks</item>
+        <item>Centurion</item>
+        <item>Archetypal Network</item>
+        <item>Tokugawa</item>
+        <item>MinCoin</item>
+        <item>GoldBlocks</item>
+        <item>JoinCoin</item>
+        <item>Desire</item>
+        <item>CraftCoin</item>
+        <item>Havy</item>
+        <item>RevolverCoin</item>
+        <item>TokenDesk</item>
+        <item>ELTCOIN</item>
+        <item>PXcoin</item>
+        <item>Bitether</item>
+        <item>BottleCaps</item>
+        <item>Quatloo</item>
+        <item>Arepacoin</item>
+        <item>DROXNE</item>
+        <item>Quebecoin</item>
+        <item>AquariusCoin</item>
+        <item>CoinonatX</item>
+        <item>Coino</item>
+        <item>Atomic Coin</item>
+        <item>Nitro</item>
+        <item>ParallelCoin</item>
+        <item>SpaceCoin</item>
+        <item>NevaCoin</item>
+        <item>C-Bits</item>
+        <item>SteepCoin</item>
+        <item>PhoenixCoin</item>
+        <item>DeusCoin</item>
+        <item>Digital Developers Fund</item>
+        <item>Ethereum Dark</item>
+        <item>Fantasy Cash</item>
+        <item>GlobalToken</item>
+        <item>XMCT</item>
+        <item>HBCoin</item>
+        <item>Magnet</item>
+        <item>PostCoin</item>
+        <item>Hitcoin</item>
+        <item>Amsterdam Coin</item>
+        <item>Footy Cash</item>
+        <item>Peerguess</item>
+        <item>jNetCoin</item>
+        <item>EvilCoin</item>
+        <item>Ccore</item>
+        <item>300 Token</item>
+        <item>InPay</item>
+        <item>SecureCoin</item>
+        <item>Safe Trade Coin</item>
+        <item>Citadel</item>
+        <item>Wixlar</item>
+        <item>Signatum</item>
+        <item>ParkByte</item>
+        <item>MCAP</item>
+        <item>Garlicoin</item>
+        <item>TRONCLASSIC</item>
+        <item>GlobalBoost-Y</item>
+        <item>Bitcoin 21</item>
+        <item>Steneum Coin</item>
+        <item>Master Swiscoin</item>
+        <item>Influxcoin</item>
+        <item>AmberCoin</item>
+        <item>BERNcash</item>
+        <item>RonPaulCoin</item>
+        <item>SixEleven</item>
+        <item>ChanCoin</item>
+        <item>Bolenum</item>
+        <item>Zoomba</item>
+        <item>Anti Bitcoin</item>
+        <item>VapersCoin</item>
+        <item>Graphcoin</item>
+        <item>DFSCoin</item>
+        <item>8BIT Coin</item>
+        <item>XCoin</item>
+        <item>High Voltage Coin</item>
+        <item>DebitCoin</item>
+        <item>DayTrader Coin</item>
+        <item>SwingCoin</item>
+        <item>Help The Homeless Coin</item>
+        <item>BumbaCoin</item>
+        <item>Dragonglass</item>
+        <item>Mainstream For The Underground</item>
+        <item>Fujinto</item>
+        <item>ACRE</item>
+        <item>Guaranteed Entrance Token</item>
+        <item>Suretly</item>
+        <item>BOAT</item>
+        <item>TajCoin</item>
+        <item>SCRIV NETWORK</item>
+        <item>ACoin</item>
+        <item>Eternity</item>
+        <item>Elacoin</item>
+        <item>DACH Coin</item>
+        <item>GuccioneCoin</item>
+        <item>Plancoin</item>
+        <item>JavaScript Token</item>
+        <item>Nekonium</item>
+        <item>Eryllium</item>
+        <item>Theresa May Coin</item>
+        <item>Fuzzballs</item>
+        <item>Mojocoin</item>
+        <item>Spots</item>
+        <item>LeaCoin</item>
+        <item>ExchangeN</item>
+        <item>Money</item>
+        <item>Sativa Coin</item>
+        <item>GoldPieces</item>
+        <item>SoilCoin</item>
+        <item>Rhenium</item>
+        <item>Gossipcoin</item>
+        <item>SoonCoin</item>
+        <item>BROTHER</item>
+        <item>Eurocoin</item>
+        <item>Nyerium</item>
+        <item>WavesPool-NET</item>
+        <item>VirtacoinPlus</item>
+        <item>VirtaCoin</item>
+        <item>StarCash Network</item>
+        <item>SocialCoin</item>
+        <item>CyberMiles</item>
+        <item>Allion</item>
+        <item>Persistent Information Exchange</item>
+        <item>Useless Ethereum Token</item>
+        <item>Cannation</item>
+        <item>Dalecoin</item>
+        <item>Prime-X1</item>
+        <item>Thore Cash</item>
+        <item>Independent Money System</item>
+        <item>BenjiRolls</item>
+        <item>ZayedCoin</item>
+        <item>Californium</item>
+        <item>YENTEN</item>
+        <item>PosEx</item>
+        <item>CompuCoin</item>
+        <item>Bitair</item>
+        <item>LiteCreed</item>
+        <item>BankCoin</item>
+        <item>MediterraneanCoin</item>
+        <item>PLNCoin</item>
+        <item>BnrtxCoin</item>
+        <item>WarpCoin</item>
+        <item>Iconic</item>
+        <item>Icobid</item>
+        <item>JobsCoin</item>
+        <item>Phantomx</item>
+        <item>Grimcoin</item>
+        <item>MarijuanaCoin</item>
+        <item>Etheera</item>
+        <item>MustangCoin</item>
+        <item>Pulse</item>
+        <item>SpeedCash</item>
+        <item>Enigma_2</item>
+        <item>Song Coin</item>
+        <item>OrlyCoin</item>
+        <item>CabbageUnit</item>
+        <item>MiloCoin</item>
+        <item>ECOcoin</item>
+        <item>Asiadigicoin</item>
+        <item>Veltor</item>
+        <item>Visio</item>
+        <item>Elysium</item>
+        <item>BitCoal</item>
+        <item>BitF</item>
+        <item>Kronecoin</item>
+        <item>Roofs</item>
+        <item>BlockCAT</item>
+        <item>Flaxscript</item>
+        <item>Honey</item>
+        <item>Neuro</item>
+        <item>Ether Kingdoms Token</item>
+        <item>LiteCoin Ultra</item>
+        <item>Francs</item>
+        <item>Simmitri</item>
+        <item>Ragnarok</item>
+        <item>PoSToken</item>
+        <item>LiteBitcoin</item>
+        <item>BitQuark</item>
+        <item>Bitcoin Planet</item>
+        <item>Coinonat</item>
+        <item>ProsperCoin</item>
+        <item>BitCoin One</item>
+        <item>BitVolt</item>
+        <item>Luna Coin</item>
+        <item>Impulse Coin</item>
+        <item>EmberCoin</item>
+        <item>Cachecoin</item>
+        <item>Valorbit</item>
+        <item>Arbit Coin</item>
+        <item>iBankCoin</item>
+        <item>SydPakCoin</item>
+        <item>Wild Beast Coin</item>
+        <item>ParanoiaCoin</item>
+        <item>Staker</item>
+        <item>Pioneer Coin</item>
+        <item>Royal Kingdom Coin</item>
+        <item>WavesDesk</item>
+        <item>PlayerCoin</item>
+        <item>Interzone</item>
+        <item>OsmiumCoin</item>
+        <item>GPU Coin</item>
+        <item>Dollar Online</item>
+        <item>PonziCoin</item>
+        <item>ZoneCoin</item>
+        <item>Concoin</item>
+        <item>Creva Coin</item>
+        <item>Beats</item>
+        <item>BitAsean</item>
+        <item>GeertCoin</item>
+        <item>BowsCoin</item>
+        <item>Coimatic 2-0</item>
+        <item>EOT Token</item>
+        <item>Coupecoin</item>
+        <item>Coimatic 3-0</item>
+        <item>GeyserCoin</item>
+        <item>Anarchists Prime</item>
+        <item>ArgusCoin</item>
+        <item>Tetra</item>
+        <item>TraDove B2BCoin</item>
+        <item>mir-one</item>
+        <item>Save and Gain</item>
+        <item>VaultCoin</item>
+        <item>Magnum</item>
+        <item>Starbase</item>
+        <item>WomenCoin</item>
+        <item>GLIPP</item>
+        <item>Arena</item>
+        <item>Primo Coin</item>
+        <item>BrWaves</item>
+        <item>Cryptowave</item>
+        <item>Sovereign Hero</item>
+        <item>KripCoin</item>
+        <item>Hi Mutual Society</item>
+        <item>Chinese Yuan</item>
+        <item>US Dollar</item>
+        <item>South Korean Won</item>
+        <item>Singapore Dollar</item>
+        <item>Recovery Right Token</item>
+        <item>Indian Rupee</item>
+        <item>Camorracoin</item>
+        <item>Urocoin</item>
+        <item>AdultChain</item>
+        <item>CzechoSlovak Koruna</item>
+        <item>GlowShares</item>
+        <item>Japanese Yen</item>
+        <item>Sembro Token</item>
+        <item>DubaiCoin_2</item>
+        <item>OKB</item>
+        <item>Quotient</item>
+        <item>BTU support</item>
+        <item>Hong Kong Dollar</item>
+        <item>GameLeagueCoin</item>
+        <item>UberCoin</item>
+        <item>Philippine Peso</item>
+        <item>DigiGems</item>
+        <item>NooCoin</item>
+        <item>EagsCurrency</item>
+        <item>United Bitcoin</item>
+        <item>SquareBit</item>
+        <item>PoolStamp</item>
+        <item>EvoPoints</item>
+        <item>PorkCoin</item>
+        <item>GoldMaxCoin</item>
+        <item>CashBet Coin</item>
+        <item>FindCoin</item>
+        <item>Crowd Machine</item>
+        <item>CryptoClub Coin</item>
+        <item>ArcBlock</item>
+        <item>DARK</item>
+        <item>PayCon</item>
+        <item>CreditBit</item>
+        <item>Bryllite</item>
+        <item>Ozziecoin</item>
+        <item>Vuulr</item>
+        <item>RubbleCoin</item>
+        <item>HarvestCoin</item>
+        <item>2015 coin</item>
+        <item>AeroMe</item>
+        <item>Bitstake</item>
+        <item>Euro</item>
+        <item>VPNCoin</item>
+        <item>DecryptRcoin</item>
+        <item>KubosCoin</item>
+        <item>ObscureBay</item>
+        <item>RiceCoin</item>
+        <item>ChiliCoin</item>
+        <item>GigCoin</item>
+        <item>Teleport</item>
+        <item>OmegaCoin</item>
+        <item>Boomstarter Coin</item>
+        <item>Atlant</item>
+        <item>DogeGoreCoin</item>
+        <item>KiloCoin</item>
+        <item>Hero Token</item>
+        <item>Aventus</item>
+        <item>PWR Coin</item>
+        <item>YbCoin</item>
+        <item>BeaoCoin</item>
+        <item>Indonesian Rupiah</item>
+        <item>NetCoin</item>
+        <item>Bongger</item>
+        <item>EDRCoin</item>
+        <item>Golos Gold</item>
+        <item>Australian Dollar</item>
+        <item>Wyvern</item>
+        <item>GoChain</item>
+        <item>BitSynq</item>
+        <item>CAI</item>
+        <item>GazeCoin</item>
+        <item>ChatCoin</item>
+        <item>Agrello</item>
+        <item>CIChain</item>
+        <item>LottoCoin</item>
+        <item>AngelaMerkelCoin</item>
+        <item>Opus</item>
+        <item>UGAIN</item>
+        <item>TheMermaidCoin</item>
+        <item>Mobozcoin</item>
+        <item>Troll Payment</item>
+        <item>Fluz Fluz</item>
+        <item>Microbyte</item>
+        <item>PlayCoin</item>
+        <item>Exchange Union</item>
+        <item>Metronome</item>
+        <item>Datum</item>
+        <item>SeratioCoin</item>
+        <item>BetaCoin</item>
+        <item>ICOBox</item>
+        <item>Bittoken</item>
+        <item>cindicator</item>
+        <item>Mobile Go</item>
+        <item>Vio</item>
+        <item>Kryll</item>
+        <item>DigiCube</item>
+        <item>FairGame</item>
+        <item>AirToken</item>
+        <item>Sharpe Token</item>
+        <item>ZCCoin</item>
+        <item>ICO</item>
+        <item>Save The Ocean</item>
+        <item>RevolutionVR</item>
+        <item>Vechain Token</item>
+        <item>Tellurion</item>
+        <item>Gemini dollar</item>
+        <item>ZPER</item>
+        <item>Digital Rupees</item>
+        <item>PoloBittShares</item>
+        <item>Hycon</item>
+        <item>Levocoin</item>
+        <item>MoonShot</item>
+        <item>Trinity</item>
+        <item>WCOIN</item>
+        <item>InsurChain</item>
+        <item>Ignite RATINGS</item>
+        <item>CheCoin</item>
+        <item>Fortesque</item>
+        <item>BMChain</item>
+        <item>IPChain</item>
+        <item>TopCoin</item>
+        <item>Wavebase</item>
+        <item>DynamicCoin</item>
+        <item>SegWit2x</item>
+        <item>ENZOLimited</item>
+        <item>Rublix</item>
+        <item>Kcash</item>
+        <item>Groin Coin</item>
+        <item>WashingtonCoin</item>
+        <item>Elysian</item>
+        <item>XDE II</item>
+        <item>ZetaMicron</item>
+        <item>Cloud</item>
+        <item>Mycelium</item>
+        <item>LightChain</item>
+        <item>SalPay</item>
+        <item>RegaCoin</item>
+        <item>HelloGold Token</item>
+        <item>FTCC</item>
+        <item>ConquestCoin</item>
+        <item>Maggie</item>
+        <item>LevoPlus</item>
+        <item>GunCoin</item>
+        <item>Commodity Ad Network</item>
+        <item>Wrapper</item>
+        <item>Pabyosi Coin</item>
+        <item>Noxbox</item>
+        <item>Molecular Future</item>
+        <item>Wowclassic</item>
+        <item>Lendingblock</item>
+        <item>Intelligent Transportation System</item>
+        <item>MoonCoin</item>
+        <item>T-BOT</item>
+        <item>DOVU</item>
+        <item>FonzieCoin</item>
+        <item>Crevacoin2-0</item>
+        <item>Super BTC</item>
+        <item>HealthyWormCoin</item>
+        <item>TPCash</item>
+        <item>OFCOIN</item>
+        <item>BizCoin</item>
+        <item>OK06ETT</item>
+        <item>Printerium</item>
+        <item>Spoon</item>
+        <item>Origin Sport</item>
+        <item>Squall Coin</item>
+        <item>Paxos Standard</item>
+        <item>XPASCAL CLASSIC</item>
+        <item>Etherecash</item>
+        <item>VirtualCoin</item>
+        <item>United Traders Token</item>
+        <item>ChronoCoin</item>
+        <item>GirlsTokenCoin</item>
+        <item>EchoLink</item>
+        <item>SolarFlareCoin</item>
+        <item>HoboNickels</item>
+        <item>Neuron</item>
+        <item>UniCoin</item>
+        <item>GanjaCoin</item>
+        <item>Bangladeshi taka</item>
+        <item> CoochieCoin</item>
+        <item>Flip</item>
+        <item>Odyssey_2</item>
+        <item>Alax</item>
+        <item>The Vegan Initiative</item>
+        <item>Animation Vision Cash</item>
+        <item>Clout</item>
+        <item>Gambleo</item>
+        <item>SnipCoin</item>
+        <item>Ebittree Coin</item>
+        <item>Dragon Coin</item>
+        <item>Meraki</item>
+        <item>Bitsoko Community</item>
+        <item>ShowCoin</item>
+        <item>Zsecoin</item>
+        <item>WOLK</item>
+        <item>Impact Coin</item>
+        <item>Castle Peak</item>
+        <item>BitPublicTN</item>
+        <item>BlazeCoin</item>
+        <item>Origin protocol</item>
+        <item>ACoin1</item>
+        <item>CTEChain</item>
+        <item>StarChain</item>
+        <item>Tattoocoin Limited Edition</item>
+        <item>Cthulhu Offer---</item>
+        <item>BOX Token</item>
+        <item>Render Payment</item>
+        <item>GoldGate</item>
+        <item>Crowdwiz</item>
+        <item>BlazerCoin</item>
+        <item>FazzCoin</item>
+        <item>TopChain</item>
+        <item>TorCoin</item>
+        <item>Tripio</item>
+        <item>LiveEdu</item>
+        <item>Beonpush</item>
+        <item>Guficoin</item>
+        <item>UCOT</item>
+        <item>ECCoin</item>
+        <item>MOLD</item>
+        <item>CGC Token</item>
+        <item>Esports-com</item>
+        <item>MeshBox</item>
+        <item>USDC</item>
+        <item>Floripacoin</item>
+        <item>HLW</item>
+        <item>StockChain</item>
+        <item>Yuan Chain Coin</item>
+        <item>Trancecoin</item>
+        <item>Budbo</item>
+        <item>WinToken</item>
+        <item>BlockMesh</item>
+        <item>Halloween Coin</item>
+        <item>Monero Original</item>
+        <item>Topaz Coin</item>
+        <item>Tokenville</item>
+        <item>Unigame</item>
+        <item>Digital Asset Exchange Token</item>
+        <item>T-coin</item>
+        <item>YOU Chain</item>
+        <item>Themis</item>
+        <item>SunChain</item>
+        <item>CoinMiningIndex</item>
+        <item>GreenFingers</item>
+        <item>TCoin</item>
+        <item>Wiki Token</item>
+        <item>TerraNova</item>
+        <item>Ammo Rewards</item>
+        <item>Pirate Blocks</item>
+        <item>RuneStoneCoin</item>
+        <item>Consentium</item>
+        <item>HarmonyCoin</item>
+        <item>Cheapcoin</item>
+        <item>Penta</item>
+        <item>Antimatter</item>
+        <item>PATRON</item>
+        <item>Ordocoin</item>
+        <item>Monero Classic</item>
+        <item>Ether Joy</item>
+        <item>Play2Live</item>
+        <item>TurboCoin</item>
+        <item>TI-Value </item>
+        <item>Bitcoiin</item>
+        <item>GrandCoin</item>
+        <item>CycloneCoin</item>
+        <item>SHACoin</item>
+        <item>MORPH</item>
+        <item>Slevin</item>
+        <item>Ekkoblock</item>
+        <item>BitcoinX</item>
+        <item>Japan Brand Coin</item>
+        <item>Bankera</item>
+        <item>Karatgold Coin</item>
+        <item>Primulon</item>
+        <item>Coinvest</item>
+        <item>Skoincoin</item>
+        <item>The Abyss</item>
+        <item>iDice</item>
+        <item>Animecoin</item>
+        <item>PITCH</item>
+        <item>CariNet</item>
+        <item>DIPNET</item>
+        <item>UpscaleToken</item>
+        <item>IvyKoin</item>
+        <item>Hubcoin</item>
+        <item>Dorado</item>
+        <item>Polcoin</item>
+        <item>ElectrifyAsia</item>
+        <item>Quanta</item>
+        <item>Link Platform</item>
+        <item>BitSoar</item>
+        <item>GrowthCoin</item>
+        <item>Disse</item>
+        <item>Maximine Coin</item>
+        <item>HyperCoin</item>
+        <item>BirdsCoin</item>
+        <item>SJW</item>
+        <item>BitcoinMetal</item>
+        <item>MarsBux</item>
+        <item>Koicoin</item>
+        <item>ILCoin</item>
+        <item>DWS</item>
+        <item>Rcoin</item>
+        <item>First Bitcoin</item>
+        <item>AgriNovus</item>
+        <item>Imbrex</item>
+        <item>Runners</item>
+        <item>Docnota</item>
+        <item>India Coin</item>
+        <item>HitChain</item>
+        <item>Robotina</item>
+        <item>Kind Ads</item>
+        <item>PumaPay</item>
+        <item>BIXC</item>
+        <item>Ti-Value</item>
+        <item>ClearCoin</item>
+        <item>MarsBux2</item>
+        <item>Savedroid</item>
+        <item>PeaceCoin</item>
+        <item>Gostcoin</item>
+        <item>Ditcoin</item>
+        <item>Ulatech</item>
+        <item>Universal Mobile Token</item>
+        <item>BlockChainStore</item>
+        <item>Phillionex</item>
+        <item>POA</item>
+        <item>RIK Coin</item>
+        <item>Cyder</item>
+        <item>Usechain Token</item>
+        <item>AML Bitcoin</item>
+        <item>DavorCoin</item>
+        <item>EcosBall</item>
+        <item>XYZCoin</item>
+        <item>MESSE TOKEN</item>
+        <item>Dutch Coin</item>
+        <item>CybCSec</item>
+        <item>Hydro Protocol</item>
+        <item>Hope Coin</item>
+        <item>Slothcoin</item>
+        <item>Pariscoin</item>
+        <item>CDCC Platform</item>
+        <item>SilkChain</item>
+        <item>Magnetz</item>
+        <item>iQuant</item>
+        <item>AnyChain</item>
+        <item>Prototanium</item>
+        <item>CHIPS</item>
+        <item>BeerCoin</item>
+        <item>Kayı</item>
+        <item>Play Win Coin</item>
+        <item>GrEarn</item>
+        <item>My Big Coin</item>
+        <item>Platinum Coin</item>
+        <item>Read</item>
+        <item>DetectorToken</item>
+        <item>Six Domain Asset</item>
+        <item>Bastonet</item>
+        <item>NineElevenTruthCoin</item>
+        <item>Akuya Coin</item>
+        <item>LUCKY</item>
+        <item>Minex</item>
+        <item>FAPcoin</item>
+        <item>PolishCoin</item>
+        <item>Bitcoin Faith</item>
+        <item>Bitbase</item>
+        <item>High Gain</item>
+        <item>Initial Coin Offering Token</item>
+        <item>GlassCoin</item>
+        <item>Code47</item>
+        <item>Bitcoineum</item>
+        <item>NEO Gold</item>
+        <item>solar</item>
+        <item>SISA</item>
+        <item>Beefy-Finance</item>
+        <item>PlexCoin</item>
+        <item>Bosnia and Herzegovina convertible mark</item>
+        <item>Credence Coin</item>
+        <item>MAZA</item>
+        <item>GOLD Reward Token</item>
+        <item>Tiger Coin</item>
+        <item>Eloplay</item>
+        <item>PitisCoin</item>
+        <item>CO2 Token</item>
+        <item>EmbargoCoin</item>
+        <item>MyCryptoBank</item>
+        <item>SterlingCoin</item>
+        <item>Filecoin IOU</item>
+        <item>Machine Xchange Coin</item>
+        <item>Digital Coin</item>
+        <item>Extensive Coin</item>
+        <item>Scanetchain Token</item>
+        <item>Bitcoin God</item>
+        <item>Scorecoin</item>
+        <item>ExperienceCoin</item>
+        <item>Lizus Payment</item>
+        <item>Birdcoin</item>
+        <item>MUNcoin</item>
+        <item>ECOToken</item>
+        <item>TRBO</item>
+        <item>Crypto Improvement Fund</item>
+        <item>Tune</item>
+        <item>Evotion</item>
+        <item>Gainer Coin</item>
+        <item>Qurito</item>
+        <item>FoodCoin</item>
+        <item>Argo</item>
+        <item>Bitcoin Hush</item>
+        <item>Simplicity</item>
+        <item>Cropcoin</item>
+        <item>OpenSourceCoin</item>
+        <item>Trident Group</item>
+        <item>PhilosophersStone</item>
+        <item>Infinex</item>
+        <item>Valuto</item>
+        <item>SOLBIT</item>
+        <item>Vade</item>
+        <item>FOLM coin</item>
+        <item>Hade Platform</item>
+        <item>ExchangeCoin</item>
+        <item>World BTC</item>
+        <item>Lynx</item>
+        <item>ATFS Project</item>
+        <item>Coinbit DEX</item>
+        <item>SuperNET</item>
+        <item>EWangBiCoin</item>
+        <item>Apollon</item>
+        <item>Haracoin</item>
+        <item>Paycentos</item>
+        <item>UniversalMolecule</item>
+        <item>eosBLACK</item>
+        <item>CryptalDash</item>
+        <item>ERA</item>
+        <item>Fitcoin</item>
+        <item>SENYO</item>
+        <item>Cryptonationz</item>
+        <item>KumaCoin</item>
+        <item>FLANDERS</item>
+        <item>EXT</item>
+        <item>ICOBay</item>
+        <item>SKILLCOIN</item>
+        <item>Dystem</item>
+        <item>TigraCoin</item>
+        <item>BlockCDN</item>
+        <item>Cache</item>
+        <item>N2O</item>
+        <item>BitBlocks</item>
+        <item>BEEZ</item>
+        <item>ARLIZE</item>
+        <item>IDOL COIN</item>
+        <item>BullshitCoin</item>
+        <item>LLToken</item>
+        <item>D-Zone Coin</item>
+        <item>Snetwork</item>
+        <item>YUKI</item>
+        <item>BENGOSHI COIN</item>
+        <item>Aegeus</item>
+        <item>Batcoin</item>
+        <item>Talentico</item>
+        <item>PayDay Coin</item>
+        <item>Neulaut</item>
+        <item>NEWSOKUCOIN</item>
+        <item>FireflyCoin</item>
+        <item>Rentledger</item>
+        <item>RabbitCoin</item>
+        <item>TESTA</item>
+        <item>TESTC</item>
+        <item>Fetch-AI</item>
+        <item>BRG</item>
+        <item>AidEvaCoin</item>
+        <item>LemonCoin</item>
+        <item>TuurnT</item>
+        <item>StrongHands Masternode</item>
+        <item>Xchange</item>
+        <item>LightCoin</item>
+        <item>Protean</item>
+        <item>Sakuracoin</item>
+        <item>SAKECOIN</item>
+        <item>Gold Pressed Latinum</item>
+        <item>BUMO</item>
+        <item>Coin2Play</item>
+        <item>CMITCOIN</item>
+        <item>TigerCoin</item>
+        <item>DropCoin</item>
+        <item>DanetonBit</item>
+        <item>Dignity</item>
+        <item>LycanCoin</item>
+        <item>Gentarium</item>
+        <item>MENTAL</item>
+        <item>PenguinCoin</item>
+        <item>Prophet Set</item>
+        <item>Bodhi Ethereum</item>
+        <item>CCCoin</item>
+        <item>K2ph COIN</item>
+        <item>TimesCoin</item>
+        <item>Vitae</item>
+        <item>ALQO_2</item>
+        <item>Ondori</item>
+        <item>Labh Coin</item>
+        <item>Manutax</item>
+        <item>CoolDarkCoin</item>
+        <item>SaveNode</item>
+        <item>QYNO</item>
+        <item>Kronn</item>
+        <item>SkyHub Coin</item>
+        <item>PROUD Money</item>
+        <item>IQ-cash</item>
+        <item>Klondike Coin</item>
+        <item>EducoinV</item>
+        <item>Granite</item>
+        <item>Comet14</item>
+        <item>SoulCoin</item>
+        <item>LRN</item>
+        <item>AGA</item>
+        <item>BVB</item>
+        <item>MEET-ONE</item>
+        <item>GSENetwork</item>
+        <item>HashCoin</item>
+        <item>KASH</item>
+        <item>BonusCloud</item>
+        <item>CannaCoin</item>
+        <item>SoPay</item>
+        <item>LemoChain</item>
+        <item>Blockchain Invest Platform</item>
+        <item>WW</item>
+        <item>Noir</item>
+        <item>VCC</item>
+        <item>OpenPlatform</item>
+        <item>LookCoin</item>
+        <item>InToken</item>
+        <item>TheChiefCoin</item>
+        <item>SelenCoin</item>
+        <item>OOO</item>
+        <item>MarxCoin</item>
+        <item>Alexandrite</item>
+        <item>Eclipse</item>
+        <item>WLC</item>
+        <item>NZed</item>
+        <item>BeachCoin</item>
+        <item>CryptCoin</item>
+        <item>Royalties</item>
+        <item>Sphre AIR </item>
+        <item>Benjacoin</item>
+        <item>SHRM</item>
+        <item>Asset Backed Coin</item>
+        <item>NamoCoin</item>
+        <item>Lithiumcoin</item>
+        <item>DAS</item>
+        <item>Atheios</item>
+        <item>StarCredits</item>
+        <item>Corion</item>
+        <item>HODL Bucks</item>
+        <item>CryptopiaFeeShares</item>
+        <item>Helium</item>
+        <item>Elements</item>
+        <item>Digital Assets Power Play</item>
+        <item>Compound Coin</item>
+        <item>WhiteCoin_2</item>
+        <item>Havecoin</item>
+        <item>Eddie coin</item>
+        <item>Mega X</item>
+        <item>MatrixCoin</item>
+        <item>Costa Rican colon</item>
+        <item>MyWish</item>
+        <item>CanYa Coin</item>
+        <item>AC3</item>
+        <item>Wispr</item>
+        <item>Skrilla</item>
+        <item>Lina Review</item>
+        <item>Ether Zero</item>
+        <item>Sirius</item>
+        <item>PROVER</item>
+        <item>Quasarcoin</item>
+        <item>TwisterCoin</item>
+        <item>Shivers</item>
+        <item>Zixx</item>
+        <item>BCShop-io Token</item>
+        <item>BiFrost</item>
+        <item>Ryo</item>
+        <item>ContractNet</item>
+        <item>Blockpass</item>
+        <item>XDNA</item>
+        <item>BitBoost</item>
+        <item>Mirai</item>
+        <item>FTEC</item>
+        <item> XCASH</item>
+        <item>ANON</item>
+        <item>HUZU</item>
+        <item>Divi Project</item>
+        <item>KryptCoin</item>
+        <item>CRIME</item>
+        <item>BOOM Coin</item>
+        <item>GSM Coin</item>
+        <item>Bitz Coin</item>
+        <item>Metal Music Coin</item>
+        <item>Selfiecoin</item>
+        <item>StoopidCoin</item>
+        <item>British Pound Sterling</item>
+        <item>Xaucoin</item>
+        <item>Phalanx</item>
+        <item>aEchoCoin</item>
+        <item>BitCrystal</item>
+        <item>AnalCoin</item>
+        <item>TeCoin</item>
+        <item>ZIRK</item>
+        <item>DragonSphere</item>
+        <item>MollyCoin</item>
+        <item>NinjaDoge</item>
+        <item>ICASH</item>
+        <item>256</item>
+        <item>GiftNet</item>
+        <item>BaseballCardCoin</item>
+        <item>Unrealcoin</item>
+        <item>TrickyCoin</item>
+        <item>Ucoin</item>
+        <item>Collective Coin</item>
+        <item>MetalCoin</item>
+        <item>Karmacoin</item>
+        <item>CryCoin</item>
+        <item>MorpheusCoin</item>
+        <item>TCX</item>
+        <item>CypherPunkCoin</item>
+        <item>GIZMOcoin</item>
+        <item>ProCoin</item>
+        <item>TRON_2</item>
+        <item>ETRUST</item>
+        <item>EggCoin</item>
+        <item>HazMatCoin</item>
+        <item>P7Coin</item>
+        <item>KolschCoin</item>
+        <item>CTK</item>
+        <item>Droidz</item>
+        <item>007 coin</item>
+        <item>Gram Coin</item>
+        <item>Singular</item>
+        <item>Quartz</item>
+        <item>DOX</item>
+        <item>XanaxCoin</item>
+        <item>Megastake</item>
+        <item>GUM</item>
+        <item>TDFB</item>
+        <item>Bubble</item>
+        <item>Graviton</item>
+        <item>Goat</item>
+        <item>PlatiniumCoin</item>
+        <item>UTLE</item>
+        <item>IslaCoin</item>
+        <item>MasterCar</item>
+        <item>ShellCoin</item>
+        <item>16BitCoin</item>
+        <item>TB</item>
+        <item>SupplyShock</item>
+        <item>Kraken</item>
+        <item>BitAlpha</item>
+        <item>Astral Diamonds</item>
+        <item>MRB</item>
+        <item>PentaCoin</item>
+        <item>DarkCrave</item>
+        <item>TWERK</item>
+        <item>Equilibrium Coin</item>
+        <item>NiceCoin</item>
+        <item>DarkBit</item>
+        <item>TNG</item>
+        <item>GENIUS</item>
+        <item>SED</item>
+        <item>32Bitcoin</item>
+        <item>FADE</item>
+        <item>RAD</item>
+        <item>Psilocybin</item>
+        <item>Greed</item>
+        <item>ExaByte EXB</item>
+        <item>OptionCoin</item>
+        <item>GLUCK</item>
+        <item>DraculaCoin</item>
+        <item>SeedShares</item>
+        <item>BananaBits</item>
+        <item>BnBX Coin</item>
+        <item>ArpaCoin</item>
+        <item>Vaporcoin</item>
+        <item>DubCoin</item>
+        <item>FistBump</item>
+        <item>EveryonesCoin</item>
+        <item>Cerium</item>
+        <item>DarkTron</item>
+        <item>TRANSF</item>
+        <item>ILM</item>
+        <item>Gold Troy Ounce</item>
+        <item>Furycoin</item>
+        <item>Sentaro</item>
+        <item>NODX</item>
+        <item>Hedgecoin</item>
+        <item>Samsara Coin</item>
+        <item>BOD</item>
+        <item>GTFO</item>
+        <item>Tennet</item>
+        <item>Kernalcoin</item>
+        <item>BLUS</item>
+        <item>GMCX</item>
+        <item>Vertex</item>
+        <item>SIX</item>
+        <item>Ghost Coin</item>
+        <item>GenesisCoin</item>
+        <item>CryptoPennies</item>
+        <item>BAM</item>
+        <item>SpecCoin</item>
+        <item>EagleCoin</item>
+        <item>Think And Get Rich Coin</item>
+        <item>HazeCoin</item>
+        <item>NukeCoin</item>
+        <item>2BACCO Coin</item>
+        <item>ConSpiracy Coin </item>
+        <item>ErrorCoin</item>
+        <item>NOC</item>
+        <item>Invictus Hyperion Fund</item>
+        <item>GrexitCoin</item>
+        <item>Brunei Dollar</item>
+        <item>Nebuchadnezzar</item>
+        <item>GEChain</item>
+        <item>IBITS</item>
+        <item>WealthCoin</item>
+        <item>BiosCrypto</item>
+        <item>CURVES</item>
+        <item>Axiom Coin</item>
+        <item>Chip</item>
+        <item>IvugeoEvolutionCoin</item>
+        <item>CAPTcoin</item>
+        <item>SharkCoin</item>
+        <item>ROS Coin</item>
+        <item>TamaGucci</item>
+        <item>HIFUN</item>
+        <item>Neurocoin</item>
+        <item>XFCX</item>
+        <item>CryptoCircuits</item>
+        <item>Sologenic</item>
+        <item>ARE</item>
+        <item>NetworkCoin</item>
+        <item>ZoomCoin</item>
+        <item>PEO</item>
+        <item>STRP</item>
+        <item>DarkEther</item>
+        <item>MYSTIC</item>
+        <item>Alexium</item>
+        <item>L7S</item>
+        <item>FCASH</item>
+        <item>Moroccan Dirham</item>
+        <item>GRF</item>
+        <item>VOL</item>
+        <item>GenesysCoin</item>
+        <item>HeelCoin</item>
+        <item>LHCoin</item>
+        <item>Clickcoin</item>
+        <item>PureCoin</item>
+        <item>Old Dogs New Tricks</item>
+        <item>DeltaCredits</item>
+        <item>TWO</item>
+        <item>SecretCoin</item>
+        <item>Pride</item>
+        <item>Turron</item>
+        <item>EMoneyPower</item>
+        <item>XMINE</item>
+        <item>NatureCoin</item>
+        <item>BitzCoin</item>
+        <item>Cashme</item>
+        <item>EtherDoge</item>
+        <item>SRND</item>
+        <item>BRE</item>
+        <item>CAID</item>
+        <item>Stakerush</item>
+        <item>MapCoin</item>
+        <item>FlyCoin</item>
+        <item>Bitcoin Silver</item>
+        <item>Limited Coin</item>
+        <item>SCITW</item>
+        <item>PSIcoin</item>
+        <item>Cryptokenz</item>
+        <item>Steps</item>
+        <item>FRDC</item>
+        <item>BattleStake</item>
+        <item>Tianhe</item>
+        <item>UPcoin</item>
+        <item>Horse Power</item>
+        <item>SweetStake</item>
+        <item>DraTourism</item>
+        <item>NODES</item>
+        <item>Babes and Nerds</item>
+        <item>RONIN</item>
+        <item>XLTCG</item>
+        <item>ColossusCoin2</item>
+        <item>CryptoBossCoin</item>
+        <item>MAZE</item>
+        <item>BitRush</item>
+        <item>InvisibleCoin</item>
+        <item>Zurcoin</item>
+        <item>XDoubleEagle</item>
+        <item>Resumeo Shares</item>
+        <item>DCYP</item>
+        <item>Moneta</item>
+        <item>Darico Ecosystem Coin</item>
+        <item>ECLI</item>
+        <item>FreeCoin</item>
+        <item>XMT</item>
+        <item>NubisCoin</item>
+        <item>Digital Credits</item>
+        <item>Coin to the Future</item>
+        <item>Rublebit</item>
+        <item>Leverage Coin</item>
+        <item>MasterMint</item>
+        <item>XSY</item>
+        <item>BitStone</item>
+        <item>LimeCoinX</item>
+        <item>Black Dragon Coin</item>
+        <item>BitVegan</item>
+        <item>ReturnCoin</item>
+        <item>X2Coin</item>
+        <item>Ratio</item>
+        <item>Zeta2Coin</item>
+        <item>DC</item>
+        <item>Avatar Coin</item>
+        <item>BitBronze</item>
+        <item>SteamPunk</item>
+        <item>BITON</item>
+        <item>MIScoin</item>
+        <item>CD</item>
+        <item>RichCoin</item>
+        <item>MindCoin</item>
+        <item>C0C0</item>
+        <item>KrugerCoin</item>
+        <item>BitalphaCoin</item>
+        <item>BitcoinPublic</item>
+        <item>Opes</item>
+        <item>SuperTurboStake</item>
+        <item>JiffyCoin</item>
+        <item>BitcoinUltra</item>
+        <item>KATZcoin</item>
+        <item>LuckyBlocks</item>
+        <item>DUST</item>
+        <item>Draco</item>
+        <item>LinkedCoin</item>
+        <item>Dark Moon</item>
+        <item>Dreamcoin</item>
+        <item>Deciphercoin</item>
+        <item>BeardDollars</item>
+        <item>GravityBit</item>
+        <item>CREDIT</item>
+        <item>NPCcoin</item>
+        <item>Franko</item>
+        <item>ClubCoin</item>
+        <item>DataOnBlock</item>
+        <item>Cygnus</item>
+        <item>SproutsExtreme</item>
+        <item>ACLR</item>
+        <item>Incrementum</item>
+        <item>VIP Coin</item>
+        <item>EURC</item>
+        <item>HempCoin</item>
+        <item>Altcoin_2</item>
+        <item>YAcCoin</item>
+        <item>JACK</item>
+        <item>BILL</item>
+        <item>DXC</item>
+        <item>PantherCoin</item>
+        <item>Lathaan</item>
+        <item>UAE</item>
+        <item>NXEcoin</item>
+        <item>BitBoss</item>
+        <item>WMCoin</item>
+        <item>Supreme</item>
+        <item>BeaverCoin</item>
+        <item>DateCoin</item>
+        <item>PlanetCoin</item>
+        <item>PrismChain</item>
+        <item>PONZ2</item>
+        <item>FlavorCoin</item>
+        <item>Digital Bullion Gold</item>
+        <item>ExitCoin</item>
+        <item>404Coin</item>
+        <item>Sling Coin</item>
+        <item>RioCoin</item>
+        <item>EnterCoin</item>
+        <item>Marvelous</item>
+        <item>Arab League Coin</item>
+        <item>DickCoin</item>
+        <item>Let it Ride</item>
+        <item>YAYcoin</item>
+        <item>VENE</item>
+        <item>RadicalCoin</item>
+        <item>GT</item>
+        <item>TalkCoin</item>
+        <item>ScryptCoin</item>
+        <item>ARTC</item>
+        <item>Craftcoin</item>
+        <item>Frankywillcoin</item>
+        <item>TodayCoin</item>
+        <item>BPOK</item>
+        <item>OlympCoin</item>
+        <item>ChronosCoin</item>
+        <item>Jewels</item>
+        <item>Victoriouscoin</item>
+        <item>TotCoin</item>
+        <item>TAO</item>
+        <item>Pioneershares</item>
+        <item>Armory Coin</item>
+        <item>OmniCron</item>
+        <item>EGOcoin</item>
+        <item>Opair</item>
+        <item>PesoBit</item>
+        <item>BlackShadowCoin</item>
+        <item>CrabCoin</item>
+        <item>Community Coin</item>
+        <item>ChoofCoin</item>
+        <item>DarkKnightCoin</item>
+        <item>EqualCoin</item>
+        <item>WineCoin</item>
+        <item>JW</item>
+        <item>BEEP</item>
+        <item>ReturnBit</item>
+        <item>LuckChain</item>
+        <item>AllSafe</item>
+        <item>ZLiteQubit</item>
+        <item>ZCashDarkCoin</item>
+        <item>LiviaCoin</item>
+        <item>CBD Crystals</item>
+        <item>NetBit</item>
+        <item>UXC</item>
+        <item>LightSpeedCoin</item>
+        <item>TMRW</item>
+        <item>365Coin</item>
+        <item>iWallet</item>
+        <item>Free Game Zone</item>
+        <item>BosonCoin</item>
+        <item>ACPR</item>
+        <item>SpaceCash</item>
+        <item>Creatio</item>
+        <item>CoralPay</item>
+        <item>ARH</item>
+        <item>MoneyCoin</item>
+        <item>Blackstar</item>
+        <item>JaneCoin</item>
+        <item>YesCoin</item>
+        <item>CG</item>
+        <item>LeninCoin</item>
+        <item>JokerCoin</item>
+        <item>Bitcoin Premium</item>
+        <item>Ride My Car</item>
+        <item>SmurfCoin</item>
+        <item>LePenCoin</item>
+        <item>CryptoWorldXToken</item>
+        <item>PoSW Coin</item>
+        <item>NIXON</item>
+        <item>NefariousCoin</item>
+        <item>MacronCoin</item>
+        <item>LIZI</item>
+        <item>WisdomCoin</item>
+        <item>BioBar</item>
+        <item>StalinCoin</item>
+        <item>MeLite</item>
+        <item>ARCX</item>
+        <item>GameUnits</item>
+        <item>Mavro</item>
+        <item>MLNC</item>
+        <item>Mbitbooks</item>
+        <item>TLEX</item>
+        <item>Project-X</item>
+        <item>Provoco Token</item>
+        <item>F16Coin</item>
+        <item>EPay</item>
+        <item>PIPR</item>
+        <item>HamsterCoin</item>
+        <item>SLCO</item>
+        <item>AdamCoin</item>
+        <item>UnitaryStatus Dollar</item>
+        <item>HAWK</item>
+        <item>CoExistCoin</item>
+        <item>Thecreed</item>
+        <item>BillaryCoin</item>
+        <item>Number7</item>
+        <item>BrainCoin</item>
+        <item>Dark Lisk</item>
+        <item>Operand</item>
+        <item>TakCoin</item>
+        <item>CHRG</item>
+        <item>TechCoin</item>
+        <item>OCOW</item>
+        <item>GHScoin</item>
+        <item>EthereumScrypt</item>
+        <item>GlobalCoin</item>
+        <item>HappyCreatorCoin </item>
+        <item>Voyacoin</item>
+        <item>ReeCoin</item>
+        <item>InceptionCoin</item>
+        <item>ECCHI</item>
+        <item>MediumProject</item>
+        <item>FireCoin</item>
+        <item>CobraCoin</item>
+        <item>BTCtalkcoin</item>
+        <item>CHEMX</item>
+        <item>SEER</item>
+        <item>Essentia</item>
+        <item>ForexCoin</item>
+        <item>Giotto Coin</item>
+        <item>CKS</item>
+        <item>XAV</item>
+        <item>Dashs</item>
+        <item>Degas Coin</item>
+        <item>Clinton</item>
+        <item>GLO</item>
+        <item>DuxCoin</item>
+        <item>TRAP</item>
+        <item>PoisonIvyCoin</item>
+        <item>BATL</item>
+        <item>NumbersCoin</item>
+        <item>ALIEN</item>
+        <item>MiniApps </item>
+        <item>RedCrowCoin</item>
+        <item>WITCH</item>
+        <item>LUMI</item>
+        <item>ExtractCoin</item>
+        <item>Capstone</item>
+        <item>CosmosCoin</item>
+        <item>BighanCoin</item>
+        <item>TOOL</item>
+        <item>WOK</item>
+        <item>EGAME</item>
+        <item>UDOWN</item>
+        <item>IONX</item>
+        <item>SHRP</item>
+        <item>QTM</item>
+        <item>TLOSH</item>
+        <item>Safecoin</item>
+        <item>BTCO</item>
+        <item>CryptoDao</item>
+        <item>Wampumcoin</item>
+        <item>FPC Token</item>
+        <item>RSGPcoin</item>
+        <item>DxoCoin</item>
+        <item>Sex Pistols</item>
+        <item>Poppy Network</item>
+        <item>Cosmic</item>
+        <item>NewInvestCoin</item>
+        <item>CinderCoin</item>
+        <item>CorgiCoin</item>
+        <item>TrashBurn</item>
+        <item>DelightPay</item>
+        <item>EmporiumCoin</item>
+        <item>GrownCoin</item>
+        <item>VectorCoin 2-0 </item>
+        <item>BAB</item>
+        <item>BitOKX</item>
+        <item>Goonies</item>
+        <item>MERGEC</item>
+        <item>YamahaCoin</item>
+        <item>Lutetium Coin</item>
+        <item>VERS</item>
+        <item>WayCoin</item>
+        <item>DollarCoin</item>
+        <item>BurstOcean</item>
+        <item>Mineum</item>
+        <item>RoyalCoin</item>
+        <item>Rh</item>
+        <item>Flash_2</item>
+        <item>Durer Coin</item>
+        <item>Litestar Coin</item>
+        <item>Peruvian Nuevo Sol</item>
+        <item>PTY</item>
+        <item>BombCoin</item>
+        <item>GothicCoin</item>
+        <item>CASAX</item>
+        <item>SunShotCoin</item>
+        <item>B2</item>
+        <item>MMXVI</item>
+        <item>CludCoin</item>
+        <item>SHREK</item>
+        <item>NewZealandCoin</item>
+        <item>ExtremeCoin</item>
+        <item>RustCoin</item>
+        <item>AcesCoin</item>
+        <item>Shilling</item>
+        <item>CrankCoin</item>
+        <item>Xonecoin</item>
+        <item>FCoin</item>
+        <item>Ubiqoin</item>
+        <item>RingCoin</item>
+        <item>SportsCoin</item>
+        <item>NodeCoin</item>
+        <item>THOM</item>
+        <item>SEV</item>
+        <item>XNM</item>
+        <item>Kiss</item>
+        <item>PROFIT</item>
+        <item>GER</item>
+        <item>Waves Cash</item>
+        <item>Bitcoinus</item>
+        <item>VKCoin</item>
+        <item>GameBetCoin</item>
+        <item>NetM</item>
+        <item>Krypton</item>
+        <item>Destiny</item>
+        <item>Bitshares2</item>
+        <item>SwapToken</item>
+        <item>Venus</item>
+        <item>ELcoin</item>
+        <item>LOOT</item>
+        <item>WEEK</item>
+        <item>700Coin</item>
+        <item>DOTA Coin</item>
+        <item>WRTcoin</item>
+        <item>PokeCoin</item>
+        <item>Procom</item>
+        <item>EneCoin</item>
+        <item>ARTA</item>
+        <item>Coinmatic</item>
+        <item>Prosense-tv</item>
+        <item>BBH Coin</item>
+        <item>PupaCoin</item>
+        <item>KashhCoin</item>
+        <item>AL</item>
+        <item>TIDE</item>
+        <item>Unfed Coin</item>
+        <item>EVA</item>
+        <item>TappingCoin</item>
+        <item>MilkCoin</item>
+        <item>CZECO</item>
+        <item>CrocodileCash</item>
+        <item>Wink</item>
+        <item>Lazarus</item>
+        <item>CryptoJournal</item>
+        <item>TAKE</item>
+        <item>KIDS</item>
+        <item>AcidCoin</item>
+        <item>PartyCoins</item>
+        <item>STONK</item>
+        <item>FIDGT</item>
+        <item>Real Asset Chain</item>
+        <item>PayPeer</item>
+        <item>BestChain</item>
+        <item>SCAN</item>
+        <item>MVR</item>
+        <item>502 Bad Gateway Token</item>
+        <item>ROCKET</item>
+        <item>ACRN</item>
+        <item>EBONUS</item>
+        <item>VNTX</item>
+        <item>Aptcoin</item>
+        <item>Chill Coin</item>
+        <item>Russian Ruble</item>
+        <item>Dlisk</item>
+        <item>ArtPro</item>
+        <item>GAKHcoin</item>
+        <item>VTL</item>
+        <item>E-coin</item>
+        <item>HON</item>
+        <item>BuyCoin</item>
+        <item>Super Wallet</item>
+        <item>Umbrella Coin</item>
+        <item>BTCMoon</item>
+        <item>EtherLite</item>
+        <item>Bytether</item>
+        <item>Bitvote</item>
+        <item>BeeChat</item>
+        <item>Datocoin</item>
+        <item>TORQ Coin</item>
+        <item>Niobium</item>
+        <item>Charity Token</item>
+        <item>FaithCoin</item>
+        <item>Ultra Salescloud</item>
+        <item>CoinLion</item>
+        <item>EasyMine</item>
+        <item>StreamSpace</item>
+        <item>Inmediate</item>
+        <item>FinTab</item>
+        <item>AS Coins</item>
+        <item>Skraps</item>
+        <item>THUG LIFE Coin</item>
+        <item>Zloadr</item>
+        <item>MobilinkToken</item>
+        <item>Countinghouse Fund</item>
+        <item>Betrium Token</item>
+        <item>Facecoin</item>
+        <item>MODEL-X</item>
+        <item>Fund Platform</item>
+        <item>COMSA</item>
+        <item>Nebeus Crypto Bank</item>
+        <item>Discoint Token</item>
+        <item>EXMR</item>
+        <item>Coinfix</item>
+        <item>EDR2</item>
+        <item>Agro Token</item>
+        <item>Mirocana</item>
+        <item>Serenity</item>
+        <item>RAcoin</item>
+        <item>BitcoinClean</item>
+        <item>ODEM_2</item>
+        <item>LuckyCoin</item>
+        <item>GoldenFleece</item>
+        <item>Autograde</item>
+        <item>BEATX</item>
+        <item>Fantom</item>
+        <item>Hurify</item>
+        <item>TVT</item>
+        <item>Aworker token</item>
+        <item>SWATCoin</item>
+        <item>GraphGrail AI</item>
+        <item>ChinaCoin</item>
+        <item>Ubex</item>
+        <item>RoBet</item>
+        <item>XYO Network</item>
+        <item>CyberCup</item>
+        <item>MMT Watch</item>
+        <item>Slate</item>
+        <item>Purple Butterfly Trading</item>
+        <item>Typerium</item>
+        <item>PAWS Fund</item>
+        <item>Snowballs</item>
+        <item>BitLuckCoin</item>
+        <item>Lepaoquan</item>
+        <item>Polish Zloty</item>
+        <item>XenCoin</item>
+        <item>Canadian dollar</item>
+        <item>Thai Baht</item>
+        <item>Israeli Shekel</item>
+        <item>Argentine peso</item>
+        <item>Trinidad and Tobago Dollar</item>
+        <item>Elephantcoin</item>
+        <item>BitFinex Token</item>
+        <item>BitConnect Coin</item>
+        <item>BTSR</item>
+        <item>Swiss franc</item>
+        <item>Scotcoin</item>
+        <item>CraigsCoin</item>
+        <item>Lebanese Pound</item>
+        <item>deCLOUDs</item>
+        <item>Darkcoin</item>
+        <item>Nigerian Naira</item>
+        <item>Egyptian pound</item>
+        <item>Belarusian ruble</item>
+        <item>Kuwaiti Dinar</item>
+        <item>Swedish Krona</item>
+        <item>Bulgarian lev</item>
+        <item>TheDAO</item>
+        <item>Jordanian Dinar</item>
+        <item>Danish krone</item>
+        <item>Hungarian Forint</item>
+        <item>NoirShares</item>
+        <item>New Zealand Dollar</item>
+        <item>GamingGo Project</item>
+        <item>MayaCoin</item>
+        <item>iC2S</item>
+        <item>Block-Chain-com</item>
+        <item>Vietnamese dong</item>
+        <item>Turkish Lira</item>
+        <item>Bahraini dinar</item>
+        <item>MasterCoin</item>
+        <item>XaruCoin</item>
+        <item>AlpaCoin</item>
+        <item>Mauritian Rupee</item>
+        <item>Wisdom Organic Chain</item>
+        <item>MergeCoin</item>
+        <item>Croatian Kuna</item>
+        <item>RazorCoin</item>
+        <item>Armenian dram</item>
+        <item>JudgeCoin</item>
+        <item>Omani Rial</item>
+        <item>AlphaCoin</item>
+        <item>Mexican Peso</item>
+        <item>Kyrgyzstani Som</item>
+        <item>Crypti</item>
+        <item>Commerce Data Connection</item>
+        <item>Romanian Leu</item>
+        <item>Georgian lari</item>
+        <item>CINNICOIN</item>
+        <item>BoostCoin</item>
+        <item>Czech koruna</item>
+        <item>General Electric Co</item>
+        <item>United Arab Emirates dirham</item>
+        <item>CFA Franc BEAC</item>
+        <item>Nas2Coin</item>
+        <item>Gibraltar pound</item>
+        <item>PLAAS</item>
+        <item>BitConnect</item>
+        <item>South African Rand</item>
+        <item>Burundian franc</item>
+        <item>Paraguayan Guarani</item>
+        <item>Bitcoin Instant</item>
+        <item>MurrayCoin</item>
+        <item>CENTERCOIN</item>
+        <item>Nepalese Rupee</item>
+        <item>Bitcoin Cash Plus</item>
+        <item>SlimCoin</item>
+        <item>Riecoin</item>
+        <item>FractalCoin</item>
+        <item>Venezuelan Bolivar Fuerte</item>
+        <item>BilShares</item>
+        <item>Cryptsy Points</item>
+        <item>POW Token</item>
+        <item>Guatemalan Quetzal</item>
+        <item>CGBANK CRYPTO</item>
+        <item>Pakistani Rupee</item>
+        <item>Namibian Dollar</item>
+        <item>Honduran Lempira</item>
+        <item>NCS</item>
+        <item>Mozambican Metical</item>
+        <item>GlyphCoin</item>
+
+    </string-array>
+    <string name="title_activity_main2">MainActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>

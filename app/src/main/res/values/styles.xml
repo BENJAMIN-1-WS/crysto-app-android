@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+        <style name="AppTheme" perent="Theme.AppCompat.Light.DarkActionBar">
+
+
+            <item name="colorPrimary">@color/green</item>
+            <item name="colorPrimaryDark">@color/green</item>
+            <item name="colorAccent">@color/green</item>
+            <item name="android:fontFamily">@font/crysto1</item>
+        </style>
+
+
+
+</resources>

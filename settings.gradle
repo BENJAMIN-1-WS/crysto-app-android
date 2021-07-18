@@ -1,0 +1,2 @@
+rootProject.name = "TempCrysto"
+include ':app'
